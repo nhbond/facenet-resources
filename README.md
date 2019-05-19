@@ -1,4 +1,4 @@
-# FaceNet TensorFLow Implementation Resources
+# FaceNet TensorFlow Implementation Resources
 Resources to assist in following the FaceNet TensorFlow Implementation by David Sandberg.
     
 Article: https://medium.com/@nhbond/how-to-copying-what-david-sandberg-did-4bf6e0ad3cd5    
